@@ -1,0 +1,2 @@
+qiskit==0.5.7
+qiskit-aqua==0.2.0
